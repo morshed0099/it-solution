@@ -2,10 +2,7 @@ body{
     font-family: 'Bebas Neue', cursive;
     font-family: 'Poppins', sans-serif;
 }
-.explore-bg-color{
-    background-color: #F4FAFD;  
-    
-}
+
 .text-color{
     color:#777777;
 }
@@ -30,15 +27,9 @@ body{
     position: absolute;
     margin-left: -182px;
 }
-   
-.text-mobile-tablet{
-    text-align: center;
-}
 .img-deging{
     width:100%;
 }
-.ovarlay{
-    width: 100%;
-    background-color: black;
-    
+.student-feadback-card{
+    height: 300px;
 }
