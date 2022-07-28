@@ -1,18 +1,25 @@
+
+
+/* goole font poppins css property  */
 body{
     font-family: 'Bebas Neue', cursive;
     font-family: 'Poppins', sans-serif;
+    background-color: #F4FAFD;
 }
-
+/* color set all paragraph  */
 .text-color{
     color:#777777;
 }
+/* slider images text alignment */
 
+/* imgages sizing feadback student section images */
 .img-fedback{
     width: 50px;
 }
 .explore-section-bg{
     background-color: #F4FAFD;
 }
+/* student feadback slider handle button previeous */
 .btn-previous-dsng1{
     width: 50px;
     height: 50px;
@@ -22,6 +29,19 @@ body{
     margin-left: 183px;
    
 }
+/* bannar imgaes slider imge overlay  */
+.overlay{
+    width: 100%;
+    height: 700px;
+    position: absolute;
+    background-color: black;
+    opacity:0.6;
+}
+/* student section slider card sizing  */
+.student-feadback-card{
+    height: 300px;
+}
+/* student feadback slider handle button next  */
 .btn-previous-dsng2{
     width: 50px;
     height: 50px;
@@ -30,10 +50,8 @@ body{
     position: absolute;
     margin-left: -182px;
 }
+/* courses section images and exploring section img sizing  */
 .img-deging{
     width:100%;
     height: 100%;
-}
-.student-feadback-card{
-    height: 300px;
 }
